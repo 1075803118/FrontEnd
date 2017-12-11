@@ -1,9 +1,0 @@
-git nonedd
-
-
-git config --global user.name "carol"
-
-git config --global user.email "1075803118@qq.com"
-
-
-git branch
